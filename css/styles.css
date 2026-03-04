@@ -218,7 +218,7 @@ img {
 }
 
 .pillars-item {
-    max-width: 400px;
+    width: 264px;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
