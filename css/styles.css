@@ -263,7 +263,6 @@ img {
 .team-item {
     background-color: #FFFFFF;
     border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px;
     width: 264px;
     height: 380px;
 }
@@ -280,6 +279,7 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .team-item-description {
@@ -309,7 +309,6 @@ img {
     display: flex;
     column-gap: 24px;
     row-gap: 48px;
-    justify-content: space-between;
     flex-wrap: wrap;
 }
 
