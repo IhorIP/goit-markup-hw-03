@@ -111,8 +111,8 @@ img {
     gap: 40px;
 }
 
-.nav-list-item {
-}
+/* .nav-list-item {
+} */
 
 .nav-link {
     display: block;
@@ -140,7 +140,7 @@ img {
     gap: 40px;
 }
 
-.contacts-item {}
+/* .contacts-item {} */
 
 .contacts-link {
     display: block;
@@ -264,14 +264,13 @@ img {
     background-color: #FFFFFF;
     border-radius: 0 0 4px 4px;
     width: 264px;
-    height: 380px;
 }
 
 .team-content-wrapper {
     padding: 32px 16px;
 }
 
-.team-item-image {}
+/* .team-item-image {} */
 
 .team-item-title {
     font-weight: 500;
@@ -317,7 +316,7 @@ img {
     width: 360px;
 }
 
-.portfolio-list-image {}
+/* .portfolio-list-image {} */
 
 .portfolio-content-wrapper {
     padding: 32px 16px;
